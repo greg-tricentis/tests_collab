@@ -1,1 +1,1 @@
-﻿console.log('toto');
+﻿logger.debug('toto');
