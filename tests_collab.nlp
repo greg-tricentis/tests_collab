@@ -1,0 +1,16 @@
+# Project description file
+
+project.name=tests_collab
+project.version=8.10
+project.original.version=8.10
+product.name=NeoLoad
+product.original.name=NeoLoad
+ssh.trustUnknownHosts.MONITORS=false
+monitor.tls.insecure=false
+product.original.version=2024.2.0
+project.is-open-test-settings-after-upload=false
+project.id=f70ec532-5d29-4719-86ed-e57a3057f243
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+team.server.project=greg-tricentis/tests_collab.git
